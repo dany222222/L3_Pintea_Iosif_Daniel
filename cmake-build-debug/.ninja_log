@@ -1,0 +1,10 @@
+# ninja log v5
+2	141	7336216553220964	build.ninja	761639e4777e98ed
+0	77	7333327575234542	CMakeFiles/L3_Pintea_Iosif_Daniel.dir/main.cpp.obj	6a66ed8547048c01
+10	600	7336201672066113	CMakeFiles/L3_Pintea_Iosif_Daniel.dir/test.cpp.obj	ec448d907f8d7c2
+491	628	7336212614622147	L3_Pintea_Iosif_Daniel.exe	fa582ef8b82743aa
+10	490	7336212613281491	CMakeFiles/L3_Pintea_Iosif_Daniel.dir/dsm.cpp.obj	8c247ea06edc6bb2
+29	327	7336219308482309	CMakeFiles/L3_Pintea_Iosif_Daniel.dir/main.cpp.obj	a26829942c7b40a0
+36	928	7336219314661209	CMakeFiles/L3_Pintea_Iosif_Daniel.dir/test.cpp.obj	431c55e0e52aefc4
+8	958	7336219314934280	CMakeFiles/L3_Pintea_Iosif_Daniel.dir/dsm.cpp.obj	38343ba4188eeb90
+958	1173	7336219317071492	L3_Pintea_Iosif_Daniel.exe	fa582ef8b82743aa

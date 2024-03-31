@@ -1,0 +1,3 @@
+C:/Users/Home/Desktop/L3_Pintea_Iosif_Daniel/cmake-build-debug/CMakeFiles/L3_Pintea_Iosif_Daniel.dir
+C:/Users/Home/Desktop/L3_Pintea_Iosif_Daniel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/Desktop/L3_Pintea_Iosif_Daniel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
